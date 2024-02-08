@@ -9,11 +9,12 @@ Consider giving it a star ⭐️ if it was useful!
 
 <!-- Replace this logo with your own -->
 <div align="center">
-  <img src="assets/images/logo.png" alt="logo" width="140"  height="auto" />
+  <img src="assets/images/logo.png" alt="logo" width="200"  height="auto" />
   <br/>
 
   <h3><b>Minimal README Template</b></h3>
 </div>
+<br/>
 
 <!-- About the Project -->
 ## About The Project
@@ -42,8 +43,8 @@ Enumerate the technologies, frameworks, libraries, and tools used in the project
 List any prerequisites or dependencies needed to run the project.
 
 <!-- example -->
-- Node.js and npm
 - Python 3.7+
+- FastAPI
 - MongoDB
 
 ### Installation
